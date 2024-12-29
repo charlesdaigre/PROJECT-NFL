@@ -1,0 +1,3 @@
+import pandas as pd
+
+df_nfl = pd.read_csv('team_stats_2003_2023.csv')
